@@ -1,0 +1,10 @@
+{
+	"name": "islands",
+	"authors": [
+		"Kadin Tucker",
+		"Greg Tucker"
+	],
+	"description": "A geologically accurate agent based simulation",
+	"copyright": "Copyright © 2017, Kadin Tucker",
+	"license": "proprietary"
+}
